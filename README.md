@@ -5,4 +5,4 @@
  Display the Appointment slip for the patient that includes Patient details, Patient Id and details of the Doctor along with the fee to be paid. 
  Store all the details of the Patient  in an Array of Objects and implement a function to display the details of the patient with a given patient id.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: SCREENSHOTS ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-![initial image](https://github.com/avinash0786/HEALTH-CARE-APPLICATION/blob/master/images?raw=true)
+![initial image](https://github.com/avinash0786/HEALTH-CARE-APPLICATION/blob/master/imagesSS/h1.png?raw=true)
